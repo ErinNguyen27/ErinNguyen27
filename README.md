@@ -9,8 +9,9 @@ I'm Erin, and I'm looking for my job as a **back-end developer**.
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
 * Communication, collaboration, empathy
-* 
-
+* Have experience in Android Automotive domain
+* TOPIK 5, TOEIC 735 certificate
+* 정보처리산업기사 필기 certificate
 ## My work
 
 * [Employee Management System](https://github.com/ErinNguyen27/Employee-Management-System.git): An full stack system to manage employee. I made this to showcase skills I'm building with **Java Spring boot and ReactJS**. 
