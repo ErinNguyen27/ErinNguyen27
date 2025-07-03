@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Erin, and I'm looking for my job as a **back-end developer**.
+I'm Erin, and I'm looking for my job as a **back-end developer**, **bridge software engineer**, **android developer**.
 
 ## About me
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
