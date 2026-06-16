@@ -11,7 +11,8 @@ I'm Erin, and I'm looking for my job as a **back-end developer**, **bridge softw
 * Communication, collaboration, empathy
 * Have experience in Android Automotive domain
 * TOPIK 6
-* TOEIC 735
+* TOEIC 805
+* Professional Scrum Master I
 * 정보처리산업기사
 
 ## My work
