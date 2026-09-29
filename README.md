@@ -10,7 +10,7 @@ I'm Erin, and I'm looking for my job as a **back-end developer**, **bridge softw
 
 * Communication, collaboration, empathy
 * Have experience in Android Automotive domain
-* ISTQB CTFL® Foundation Level
+* ISTQB Certified Tester Foundation Level (CTFL®)
 * TOPIK 6
 * TOEIC 805
 * Professional Scrum Master I (PSM I)
